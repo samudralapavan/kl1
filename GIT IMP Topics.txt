@@ -1,0 +1,10 @@
+gitrebase and merge
+git conflict
+git strategy
+git fork
+how to give access for a new user
+git pull, push,clone - basic
+git restore/revert
+git pop
+git stash pop
+
